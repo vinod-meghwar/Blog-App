@@ -48,7 +48,7 @@ NoteVault/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/NoteVault.git
+git clone https://github.com//vinod-meghwar/NoteVault.git
 cd NoteVault
 ```
 
